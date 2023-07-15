@@ -25,8 +25,10 @@ replay_pid*
 
 # Any
 
+.vscode/
 dist
 out
 build
 *.jar
 *.class
+bin
